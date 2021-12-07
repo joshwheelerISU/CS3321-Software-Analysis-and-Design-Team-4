@@ -4,22 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3855d129-8556-4eb1-8ec1-c45310d180a3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="23196024-d03f-4f5f-a269-a8f9e1a09af3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/Chance.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/Chance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/CommunityChest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/CommunityChest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/GameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/GameState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/Gameplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/Gameplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/NewPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/Property.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/Property.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/Railroad.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/Railroad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/Space.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/Space.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/Street.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/Street.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/Backend/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Backend/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/Backend/ChanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/Backend/ChanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/Backend/CommunityChestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/Backend/CommunityChestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/Backend/GameplayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/Backend/GameplayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/Backend/RailroadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/Backend/RailroadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/Backend/ServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/Backend/ServerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/Backend/SpaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/Backend/SpaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/Backend/UtilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/Backend/UtilityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/../CHANGELOG.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,30 +82,31 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="ProjectId" id="1z6x6DInIXKfHEu9sakUkO1x26L" />
+  <component name="ProjectId" id="20FDavpMC7DEakxGBVywF8Ckspw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/lights" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tim\Documents\git_stuff\monop\CS3321-Software-Analysis-and-Design-Team-4\Backend\app\src\main\java" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="gradle app:test" />
-      <command value="gradle app:main" />
-      <command value="gradle app:run" />
+      <command value="gradle app:build" />
+      <command value="gradle test" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backend.App" />
+  <component name="RunManager" selected="Gradle.Backend [test]">
+    <configuration name="Player" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backend.Player" />
       <module name="Backend.app.main" />
       <extension name="coverage">
         <pattern>
@@ -104,33 +118,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backend.Client" />
-      <module name="Backend.app.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Backend.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backend.Dice" />
-      <module name="Backend.app.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Backend.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Backend [app:main]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Backend [app:build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -141,7 +129,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="app:main" />
+            <option value="app:build" />
           </list>
         </option>
         <option name="vmOptions" value="" />
@@ -151,7 +139,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Backend [app:run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Backend [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -162,34 +150,76 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="app:run" />
+            <option value="test" />
           </list>
         </option>
         <option name="vmOptions" value="" />
       </ExternalSystemSettings>
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GameplayTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;Backend.GameplayTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PlayerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;Backend.PlayerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Dice" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Gradle.Backend [app:run]" />
-        <item itemvalue="Gradle.Backend [app:main]" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Gradle.Backend [test]" />
+        <item itemvalue="Gradle.GameplayTest" />
+        <item itemvalue="Application.Player" />
+        <item itemvalue="Gradle.PlayerTest" />
+        <item itemvalue="Gradle.Backend [app:build]" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3855d129-8556-4eb1-8ec1-c45310d180a3" name="Changes" comment="" />
-      <created>1633482163350</created>
+      <changelist id="23196024-d03f-4f5f-a269-a8f9e1a09af3" name="Changes" comment="" />
+      <created>1635631514239</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1633482163350</updated>
+      <updated>1635631514239</updated>
     </task>
     <servers />
   </component>
@@ -205,19 +235,7 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/test/java/Backend/ServerTest.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Backend$Backend__test_.ic" NAME="Backend [test] Coverage Results" MODIFIED="1638733110985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
