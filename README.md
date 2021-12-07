@@ -3,10 +3,6 @@
 - Client binary for Windows: https://mega.nz/file/PtUmjTBS#hkSJ-xaG29H9IKDqn6u1ty0Hn-6fAzfVJrqACw-c9Sk
 - Client binary for Linux (largely untested): https://mega.nz/file/GlsGhbrC#hJQ52ojj49GToEcdoMf2saAFqm_7cqaV97iSyeLDr24
 
-## Docker commands, IDK where else to put these:
-docker build -t monopserver .
-docker run -p 7000:7000 monopserver
-
 ## Team 4 Info
 ### Members: Active Roles
 * Nicholas Garrett: 
