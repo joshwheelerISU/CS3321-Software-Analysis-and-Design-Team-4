@@ -1,4 +1,5 @@
 # CS3321-Software-Analysis-and-Design-Team-4
+- This is a forked version of the main development branch used to get Docker and Travis CI working. See the original project here **https://github.com/mietaust/CS3321-Software-Analysis-and-Design-Team-4**.
 ## Client Binaries - Couldn't figure out a good way to do this automatically along with the Server, so they're manually released. Use at own risk. 
 - Client binary for Windows: https://mega.nz/file/PtUmjTBS#hkSJ-xaG29H9IKDqn6u1ty0Hn-6fAzfVJrqACw-c9Sk
 - Client binary for Linux (largely untested): https://mega.nz/file/GlsGhbrC#hJQ52ojj49GToEcdoMf2saAFqm_7cqaV97iSyeLDr24
